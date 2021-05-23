@@ -22,5 +22,12 @@ Jupyter Notebook Version is also Availiable.
 
 
 ## Test Results
+### Demo1
+<p align="center">
+  <img src="karthik.png">
+</p> 
 
-![Karthik](https://github.com/karthik1997/Image-Cartooning-Using-Computer-Vision/karthik.png).
+### Demo2
+<p align="center">
+  <img src="dicaprio.png">
+</p> 
