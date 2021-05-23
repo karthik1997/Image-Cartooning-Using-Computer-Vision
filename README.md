@@ -20,3 +20,7 @@ python3 cartoonify.py --image <path to image>
 
 Jupyter Notebook Version is also Availiable.
 
+
+## Test Results
+
+![Karthik](https://github.com/karthik1997/Image-Cartooning-Using-Computer-Vision/karthik.png).
